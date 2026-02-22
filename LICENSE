@@ -1,0 +1,52 @@
+MIT License
+
+Copyright (c) 2026 PresetyX
+
+Based on:
+- Aimmy-CUDA-Arduino by whoswhip (https://github.com/whoswhip/Aimmy-CUDA-Arduino)
+- HID_Arduino by SunOner (https://github.com/SunOner/HID_Arduino)
+- USB Host Shield Library 2.0 by felis
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+DISCLAIMER:
+
+This software is provided for EDUCATIONAL and RESEARCH PURPOSES ONLY.
+
+The use of cheats, hacks, or any form of unfair advantage in online games:
+1. Violates the Terms of Service of most games
+2. Can result in permanent account bans
+3. May be illegal in some jurisdictions
+4. Damages the gaming experience for other players
+
+The authors and contributors of this software:
+- Do NOT encourage the use of this software for cheating in online games
+- Are NOT responsible for any bans, suspensions, or legal consequences
+- Do NOT provide support for circumventing anti-cheat systems
+- STRONGLY DISCOURAGE any malicious or unethical use
+
+By using this software, you acknowledge that:
+- You understand the risks involved
+- You accept full responsibility for your actions
+- You will not hold the authors liable for any consequences
+- You will use this software ethically and legally
+
+IF YOU DO NOT AGREE WITH THESE TERMS, DO NOT USE THIS SOFTWARE.
